@@ -34,8 +34,3 @@ In the spirit of modern design engineering, **Gemini** was utilized as a pair-pr
 | UI/UX Development & Animations | 3 Hours |
 | Final Testing & Documentation | 1 Hour |
 | **Total** | **8.5 Hours** |
-
-## Setup & Installation
-1. **Clone the repository:**
-   ```bash
-   git clone <your-repo-url>
