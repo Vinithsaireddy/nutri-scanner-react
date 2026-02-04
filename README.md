@@ -2,10 +2,6 @@
 
 A high-performance React application designed to help users search, filter, and analyze food products globally using the OpenFoodFacts API. 
 
-## Live Demo
-[Insert Your Vercel/Netlify Link Here]
-
----
 
 ## Methodology & Tech Stack
 This project was built with a focus on **Modular Architecture** and **Performance Optimization**.
